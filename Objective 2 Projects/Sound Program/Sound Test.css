@@ -1,0 +1,29 @@
+body
+{
+background-image: linear-gradient(rgb(171, 192, 223), rgb(154, 190, 221));
+background-repeat: no-repeat;
+}
+
+table {
+    width: 10%;
+}
+td {
+    border: solid 1px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    text-align: left;
+  }
+table, th, td {
+    
+    border: 1px solid;
+    height: auto;
+    width: 60%;
+    border-collapse: collapse;
+    text-align: left;
+
+}
+tr:nth-child(even) {
+    background-color: #3feef1;
+  }
+  thead {color: rgb(55, 9, 224);}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!--This is a project done as an assignment for a sound test for https://synchronic.uat.edu/courses/5462
+as completed by Sydnei Lang  sydlang@uat.edu-->
+ 
+<head>      
+    <!--linked js file to HTML file--->
+    <script src = "Sound Test.js"></script>
+    <!--linked my css to my html-->
+    <link rel = "stylesheet" href = "Sound Test.css">
+    <!--This shows where my webpage title went-->
+
+    <title>Sound Test</title>
+</head> 
+<body>      
+       <h1>Audio Controls</h1>
+        
+      <audio controls autoplay loop>
+         <source src = "Epic Action.mp3" type = "audio/mpeg">
+      </audio>
+        <h2> Audio Buttons</h2>
+        <button id="Startbutton" onclick="Start()">Start</button> 
+        <button id="Stopbutton" onclick="Stop()">Stop</button>
+
+       <table class="Audio Tables"></table>
+
+  <table id = "data",border, = 2 width="80%">
+            
+        
+       
+            <th>Date</th>
+            <th>Weather</th>
+            <th>Proximity</th>
+            <th>Terrain</th>
+        <tbody>
+            <tr id="def"></tr>
+             <td>2/1/23</td>
+             <td>Sunny</td>
+             <td>6</td>
+             <td>Desert</td>
+         </tr>
+        </tbody>
+        </table>
+</body>
+</html>
