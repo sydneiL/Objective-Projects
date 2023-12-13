@@ -1,0 +1,126 @@
+/* home.css */
+
+body {
+    background-color: #f2f2f2;
+  }
+  
+  header {
+    background-color: #6248e2;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    color: #f5f1f1;
+  }
+  /* scanscreen.css */
+
+body {
+    background-color: #e6f7ff;
+  }
+  
+  header {
+    background-color: #5218f0;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  h2 {
+    color: #c9daec;
+  }
+  
+  p {
+    color: #333;
+    text-align: center;
+  }
+  /* sip.css */
+
+body {
+    background-color: #f0e68c;
+  }
+  
+  header {
+    background-color: #6a4fb5;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  h2 {
+    color: #ccac00;
+  }
+  
+  p {
+    color: #333;
+    text-align: center;
+  }
+  /* aboutme.css */
+
+body {
+    background-color: #ffe4e1;
+  }
+  
+  header {
+    background-color: #e0ac12;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  h2 {
+    color: #7c16e1;
+  }
+  
+  p {
+    color: #333;
+    text-align: center;
+  }
+/* objectives.css */
+
+body {
+    background-color: #d9ead3;
+  }
+  
+  header {
+    background-color: #5a3ce3;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  h2 {
+    color: #f1bc52;
+  }
+  
+  p {
+    color: #333;
+    text-align: center;
+  }
+/* translations.css */
+
+body {
+    background-color: #d1c4e9;
+  }
+  
+  header {
+    background-color: #673ab7;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  h2 {
+    color: #673ab7;
+  }
+  
+  p {
+    color: #333;
+    text-align: center;
+  }
+      
