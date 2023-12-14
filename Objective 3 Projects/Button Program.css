@@ -1,0 +1,78 @@
+body {
+    
+    background-image: linear-gradient(rgb(66, 66, 232), orange, rgb(11, 221, 224));
+      
+}
+
+
+
+
+h1{
+    color: rgb(108, 9, 49);
+    text-align: left;
+    font-style: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+table {
+    width: 100%;
+}
+
+
+table {color: rgb(238, 130, 238) ();}
+thead {color: rgb(7, 7, 7);}
+tbody {color: rgb(13, 13, 13);}
+
+
+
+table, th, td {
+    
+    border: 1px solid;
+    height: auto;
+    width: 60%;
+    border-collapse: collapse;
+    text-align: left;
+    
+}  
+    table, th {
+        width: 100%;
+        height: 70px;
+    }
+ 
+
+img{
+    background-image:"UAT Space Program.jpeg";
+    background-image: "no-repeat";
+    background-position: "left-top";
+    padding: 80px;
+    width: 200px;
+    height: 150px;
+    border-radius: "none";
+    
+    
+    
+}
+tbody{
+    font-size: 35%;
+    font-style: regular;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-size-adjust:5px;
+    text-align: left;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    vertical-align:bottom;
+    
+}
+
+table.center 
+{
+    margin-left: auto;
+    margin-right: auto;
+    size: 45px;
+}
+
+.button{
+    
+}

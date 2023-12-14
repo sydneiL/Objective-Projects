@@ -1,0 +1,9 @@
+.button.start {
+    appearance: rounded;
+    border: 0;
+    border-radius: 6px;
+    background: hsl(220, 64%, 56%);
+    color: #fff;
+    padding: 9px 20px;
+    font-size: 15px;
+    }
